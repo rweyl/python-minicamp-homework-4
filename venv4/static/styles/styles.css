@@ -1,0 +1,13 @@
+body {
+	background: gray;
+	font-family: sans-serif;
+	color: blue;
+}
+
+p {
+	font-size: 12px;
+}
+
+.header {
+	color: indigo;
+}
